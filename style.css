@@ -1,0 +1,14 @@
+body{
+    background: url('blue-and-white-abstract-painting-2110951.jpg');
+    background-size: cover;
+    color: #ffffff;
+}
+.kotak{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-delay: 2s;
+}
